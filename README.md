@@ -5,27 +5,27 @@ A modern, responsive web application for discovering cultural events and experie
 
 ## Features
 
-# Responsive Design: Seamless experience on all screen sizes.
+ Responsive Design: Seamless experience on all screen sizes.
 
-# Event Discovery: Explore cultural experiences by category and location.
+ Event Discovery: Explore cultural experiences by category and location.
 
-# Category Filtering: Filter events to find what interests you.
+Category Filtering: Filter events to find what interests you.
 
-# Search Functionality: Quickly find events using the search bar.
+Search Functionality: Quickly find events using the search bar.
 
-# Engaging UI: Beautifully designed with smooth animations and hover effects.
+Engaging UI: Beautifully designed with smooth animations and hover effects.
 
 ## Technologies Used
 
-# React: Front-end library for building user interfaces.
+React: Front-end library for building user interfaces.
 
-# TypeScript: Type-safe JavaScript for better development experience.
+TypeScript: Type-safe JavaScript for better development experience.
 
-# CSS: Utility-first CSS framework for fast and consistent styling.
+CSS: Utility-first CSS framework for fast and consistent styling.
 
-# Vite: Fast build tool and development server.
+Vite: Fast build tool and development server.
 
-# Lucide-React: Icon library for adding visual elements.
+Lucide-React: Icon library for adding visual elements.
 
 ## Installation
 
